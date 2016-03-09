@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Chrisnux]]></title>
-        <description><![CDATA[Chrisnux]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Chris dem sein Grid]]></title>
+        <description><![CDATA[Chris dem sein Grid]]></description>
+        <link>https://thegrid.ai/chrisnux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:47:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 23:51:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrisnux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e85e53e-1de3-4a78-ac27-c94258283cee.jpg">]]></description>
+            <link>https://thegrid.ai/chrisnux/655c407a-0214-49cc-b003-1c74c796a20c/index.html</link>
+            <guid isPermaLink="false">655c407a-0214-49cc-b003-1c74c796a20c</guid>
+            <pubDate>Wed, 09 Mar 2016 23:51:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/chrisnux/hello-world/index.html</link>
             <guid isPermaLink="false">933e07d6-0ab7-4ad7-b67e-2bf0bb6b1eae</guid>
             <pubDate>Wed, 09 Mar 2016 23:47:10 GMT</pubDate>
         </item>

@@ -1,0 +1,28 @@
+name: Chrisnux
+favicon: null
+layout_spectrum: 0.4139568554237485
+typography_spectrum: 0.4296676896046847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.23746352782472968
+  lightness: 0.17660210537724197
+  saturation: 0.894667882239446
+  rhythmicContrast: 0.049348311964422464
+purpose: []
